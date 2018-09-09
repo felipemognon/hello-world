@@ -1,2 +1,2 @@
 # hello-world
-exemplo of how to create repository
+exemple of how to create repository
